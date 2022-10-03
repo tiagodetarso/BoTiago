@@ -4,7 +4,7 @@ class BD:
     """Classe para conexão ao banco de dados"""
 
     connectionDict = {"host": "localhost",
-                      "database": "BoTiago", "user": "root", "password": "raggio983"}
+                      "database": "BoTiago", "user": "root", "password": "*******"}
 
     def conectar():
         """Estabelece a conexão com o banco de dados"""
